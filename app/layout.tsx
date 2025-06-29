@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Geist, Geist_Mono } from "next/font/google";
-import Navbar from "@/app/navbar";
+import Navbar from "@/app/components/navbar";
 import "./globals.css";
 import { EB_Garamond } from 'next/font/google';
 

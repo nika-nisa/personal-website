@@ -1,6 +1,7 @@
+
 export default function AboutPage() {
     return (
-        <main className="min-h-screen flex flex-col items-center justify-center p-4 font-mono">
+        <main className="bg-grid min-h-screen flex flex-col items-center justify-center p-4 font-mono">
             <h1 className="hover:text-4xl transition-all duration-300 text-3xl mb-6">about</h1>
             <p className="max-w-xl text-center text-lg mb-35 text-gray-500"> Hi! I'm Anika, a hobbyist UX designer that's into computational biology. </p>
 
