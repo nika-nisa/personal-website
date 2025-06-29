@@ -21,11 +21,11 @@ const isActive = (path: string) => {
 
     return (
         <nav className="w-full mt-5">
-        <div className="fixed w-full flex justify-center gap-9 py-4 font-mono text-lg border-b">
+        <div className="fixed w-full flex justify-center gap-9 py-4 font-mono text-lg">
 
         
         {/*Desktop Navigation */}
-        <div className="flex-1 flex justify-center space-x-6 sm:space-x-8 font-mono sm:ml-5 text-xs sm:text-sm font-medium">
+        <div className="flex-1 flex justify-center space-x-6 sm:space-x-8 font-mono sm:ml-5 text-xs sm:text-sm font-medium text-neutral-500">
             <Link href="/" className="`inline-flex items-center px-1 hover:underline duration-200 ${isActive(
             )}`">Home</Link>
             <Link href="/projects" className="`inline-flex items-center px-1 hover:underline duration-200 ${isActive(
