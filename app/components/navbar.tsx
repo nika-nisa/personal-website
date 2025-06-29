@@ -46,7 +46,7 @@ const isActive = (path: string) => {
         </div>
         </div>
         
-        {/*Mobile Navigation... fix transitions */}
+        {/*Mobile Navigation... fix transitions 
         {isOpen && (
             <div className="md:hidden mt-4 flex flex-col gap-4 px-4">
           <Link href="/" className={isActive(pathname, "/")} onClick={() => setIsOpen(false)}>Home</Link>
@@ -55,6 +55,7 @@ const isActive = (path: string) => {
             </div>
 
         )}
+            */}
 
         </nav>
     );

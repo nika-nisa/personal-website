@@ -22,7 +22,7 @@ export default function AboutPage() {
             <div className="flex-1 flex flex-col items-center justify-center">
                 <h2 className="hover:text-4xl transition-all duration-300 text-3xl mb-6">about</h2>
                 <p className="mb-2 px-6 text-center text-neutral-500">
-                    functionality meets aesthetics.
+                    lover of where functionality meets aesthetics. 
                 </p>
             </div>
 
