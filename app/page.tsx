@@ -15,9 +15,9 @@ export default function HomePage() {
 
         <p
         className="px-20 py-5 text-neutral-500">
-        still figuring out where home base for the next few years will be... 
+        right now, i'm figuring out where home base for the next few years will be... 
         <span className="text-[#d5aeb0]"> *college!* </span> 
-        but i intend to pursue b.s. in
+        where i intend to pursue a b.s. in
         <span className="text-[#c2191f]"> computational biology </span> 
         and minor in 
         <span className="text-[#c2191f]"> philosophy</span> 
